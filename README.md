@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish-dev-01&label=Profile%20views&color=0e75b6&style=flat" alt="satish-dev-01" /> </p>
 
-- 🔭 I’m currently working on [AstroSwamig](https://play.google.com/store/search?q=astroswamig&c=apps&hl=en)
+- 🔭 I’m currently working on [AstroSwamig APP](https://play.google.com/store/search?q=astroswamig&c=apps&hl=en)[Wepsite](https://www.astroswamig.com/) 
 
 - 📝 I write articles on [https://medium.com/@satish.dev0001](https://medium.com/@satish.dev0001)
 
@@ -26,3 +26,10 @@
 
 //https://play.google.com/store/apps/details?id=com.mob.kitchen_hrm&hl=en
 <h3 align="left">Some My App:</h3>
+-  [AstroSwamig](https://play.google.com/store/search?q=astroswamig&c=apps&hl=en)
+
+-  [Here is What I Like](https://play.google.com/store/apps/details?id=com.hivil.hivil&hl=en)
+
+-  [MOB HRM](https://play.google.com/store/apps/details?id=com.mob.kitchen_hrm&hl=en)
+
+- [MOB's Kitchen](https://play.google.com/store/apps/details?id=com.mobcoder.kitchen&hl=en)
