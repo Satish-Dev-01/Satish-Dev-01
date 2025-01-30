@@ -26,8 +26,11 @@
 
 //https://play.google.com/store/apps/details?id=com.mob.kitchen_hrm&hl=en
 <h3 align="left">Some My App:</h3>
--  [AstroSwamig](https://play.google.com/store/search?q=astroswamig&c=apps&hl=en)
 
+-  [AstroSwamig](https://play.google.com/store/search?q=astroswamig&c=apps&hl=en)
+   
+-  [ASG Astrologers](https://play.google.com/store/apps/details?id=com.astroswamig.admin.mobile&hl=en)
+  
 -  [Here is What I Like](https://play.google.com/store/apps/details?id=com.hivil.hivil&hl=en)
 
 -  [MOB HRM](https://play.google.com/store/apps/details?id=com.mob.kitchen_hrm&hl=en)
