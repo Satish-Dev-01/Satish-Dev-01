@@ -36,3 +36,5 @@
 -  [MOB HRM](https://play.google.com/store/apps/details?id=com.mob.kitchen_hrm&hl=en)
 
 - [MOB's Kitchen](https://play.google.com/store/apps/details?id=com.mobcoder.kitchen&hl=en)
+  
+- [Kitchen Kilter](https://play.google.com/store/apps/details?id=com.mobcoder.kitchen.kilter&hl=en)
