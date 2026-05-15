@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Satish Tiwari</h1>
-<h3 align="center">Flutter Developer with over 4 years of experience building robust and scalable applications</h3>
+<h3 align="center">Flutter Developer with over 4+ years of experience building robust and scalable applications</h3>
 <img align="right" alt="coding gif" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish-dev-01&label=Profile%20views&color=0e75b6&style=flat" alt="satish-dev-01" /> </p>
 
-- 🔭 I’m currently working on [AstroSwamig APP](https://play.google.com/store/search?q=astroswamig&c=apps&hl=en)[Wepsite](https://www.astroswamig.com/) 
+- 🔭 I’m currently working on [Pharminho APP](https://play.google.com/store/apps/details?id=com.vaayath.pharminho&pcampaignid=web_share)[Wepsite](https://www.pharminho.com/) 
 
 - 📝 I write articles on [https://medium.com/@satish.dev0001](https://medium.com/@satish.dev0001)
 
