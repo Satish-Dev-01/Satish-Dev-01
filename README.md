@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish-dev-01&label=Profile%20views&color=0e75b6&style=flat" alt="satish-dev-01" /> </p>
 
-- 🔭 I’m currently working on [Pharminho APP](https://play.google.com/store/apps/details?id=com.vaayath.pharminho&pcampaignid=web_share)[Wepsite](https://www.pharminho.com/) 
+- 🔭 I’m currently working on [Pharminho APP](https://play.google.com/store/apps/details?id=com.vaayath.pharminho&pcampaignid=web_share) [Wepsite](https://www.pharminho.com/) 
 
 - 📝 I write articles on [https://medium.com/@satish.dev0001](https://medium.com/@satish.dev0001)
 
